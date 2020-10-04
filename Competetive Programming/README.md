@@ -1,1 +1,0 @@
-# Competetive Programming
