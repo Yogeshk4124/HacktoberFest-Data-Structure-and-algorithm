@@ -20,4 +20,5 @@ Read the participation details to learn how to earn your Hacktoberfest tee or tr
 
 <h3> Note </h3>
 
-Please add your Name in contribution.md file.
+Please add your Name in contribution.md file.<br>
+Show your Love :heart: !! Give a star :star: !!
