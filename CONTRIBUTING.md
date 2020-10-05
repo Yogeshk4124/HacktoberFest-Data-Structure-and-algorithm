@@ -6,3 +6,6 @@
 
 ### Shreyans Jain
 - Github: https://github.com/Shreyans13
+
+###  Samriddhi Arya
+ - Github: https://github.com/samriddhi-arya
