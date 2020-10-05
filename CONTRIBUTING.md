@@ -6,3 +6,5 @@
 
 ### Shreyans Jain
 - Github: https://github.com/Shreyans13
+### Jathin Prakash 
+- Github: https://github.com/SLICKjp
