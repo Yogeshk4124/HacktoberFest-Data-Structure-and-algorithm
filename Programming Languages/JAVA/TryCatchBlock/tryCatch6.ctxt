@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=tryCatch6
+comment1.params=a\ b
+comment1.target=int\ divideByZero(int,\ int)
+comment2.params=
+comment2.target=void\ tryInsideTryBlock()
+comment3.params=
+comment3.target=void\ main()
+numComments=4

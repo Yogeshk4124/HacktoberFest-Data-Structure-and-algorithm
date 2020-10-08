@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=codechefFibonacci
+comment1.params=arr\ index
+comment1.target=int[]\ Delete(int[],\ int)
+comment2.params=n
+comment2.target=int\ fib(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
