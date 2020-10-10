@@ -6,6 +6,10 @@
 
 - Github: https://github.com/Yogeshk4124
 
+### Ishaan Jain
+
+- Github: https://github.com/ishaanjain1898
+
 ### Shreyans Jain
 
 - Github: https://github.com/Shreyans13
