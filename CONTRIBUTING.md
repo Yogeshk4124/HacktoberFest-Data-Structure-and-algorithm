@@ -27,12 +27,14 @@
 - Github: https://github.com/mauryahimanshu
 
 ### Arsh Kumar
-
-- Github: https://github.com/Arsh-ak7
+ - Github: https://github.com/Arsh-ak7
 
 ### Sagar Gurung
 
 - Github: https://github.com/SagarGi
+
+### Ar-ruk Kachen
+ - Github: https://github.com/goodgodth
 
 ### Kiranmayep
 
