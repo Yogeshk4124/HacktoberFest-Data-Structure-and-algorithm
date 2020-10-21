@@ -2,6 +2,10 @@
 
 ## Please add your name and profile to the file
 
+### Ritwika Pal
+
+- Github: https://github.com/Ritwika101
+
 ### Yogesh Kumar
 
 - Github: https://github.com/Yogeshk4124
@@ -53,3 +57,5 @@
 ### Vivek Sony
 
 - Github:https://github.com/Vtrrix
+
+
